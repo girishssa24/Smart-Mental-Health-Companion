@@ -1,0 +1,52 @@
+[
+    {
+        "text": "hi i feel happy right now",
+        "emotion": "joy",
+        "date": "2025-11-09 09:55"
+    },
+    {
+        "text": "You: I feel stressed today.",
+        "emotion": "sadness",
+        "date": "2025-11-09 09:56"
+    },
+    {
+        "text": "You: I feel stressed today.",
+        "emotion": "sadness",
+        "date": "2025-11-09 09:56"
+    },
+    {
+        "text": "I feel stressed today.",
+        "emotion": "anger",
+        "date": "2025-11-09 09:57"
+    },
+    {
+        "text": "i am happy",
+        "emotion": "joy",
+        "date": "2025-11-09 10:00"
+    },
+    {
+        "text": "i am doing well",
+        "emotion": "joy",
+        "date": "2025-11-09 10:00"
+    },
+    {
+        "text": "i need rest \\",
+        "emotion": "joy",
+        "date": "2025-11-09 10:00"
+    },
+    {
+        "text": "i am sad",
+        "emotion": "sadness",
+        "date": "2025-11-09 10:00"
+    },
+    {
+        "text": "I feel stressed and overwhelmed.",
+        "emotion": "sadness",
+        "date": "2025-11-09 10:22"
+    },
+    {
+        "text": "I feel stressed and overwhelmed.",
+        "emotion": "sadness",
+        "date": "2025-11-09 10:25"
+    }
+]
